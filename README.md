@@ -1,5 +1,9 @@
 # General documents for trainings of the TYPO3 Trainer Network (TTN)
 
+## Contents
+
+- [name plates for participants](name-plates/)
+
 ## License
 
 The documents in this repository are double-licensed using Creative Commons
